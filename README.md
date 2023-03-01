@@ -1,4 +1,8 @@
-# I recently completed a Web Development Course at IT School, where I gained hands-on experience in Front-End Development, using HTML, CSS, JavaScript, React JS and frameworks like Bootstrap, Material UI. During my studies, I had the opportunity to work on several projects that allowed me to apply my knowledge and hone my skills.
+## About Project
+
+
+
+I recently completed a Web Development Course at IT School, where I gained hands-on experience in Front-End Development, using HTML, CSS, JavaScript, React JS and frameworks like Bootstrap, Material UI. During my studies, I had the opportunity to work on several projects that allowed me to apply my knowledge and hone my skills.
 
 On this website, you will find a collection of my recent projects, showcasing my abilities in HTML, CSS, JavaScript, React JS. From a Social Media App to a News Homepage, each project has been carefully crafted with attention to detail and a focus on creating a seamless user experience.
 
