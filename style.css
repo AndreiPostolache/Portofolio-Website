@@ -192,6 +192,11 @@ ul li a:hover {
   position: relative;
 }
 
+.contact-me--anchor:hover{
+  color:#4ee1a0;
+  transition: 300ms ease;
+}
+
 .contact-me--anchor::before {
   content: "";
   border: 1px solid #4ee1a0;
