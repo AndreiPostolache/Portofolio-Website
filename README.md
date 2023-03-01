@@ -21,7 +21,7 @@ Whether you're a potential client or employer, I hope that you find my portfolio
 ### Links
 
 - Solution URL: [GitHub](https://github.com/AndreiPostolache/Portofolio-Website)
-- Live Site URL: [Netlify](https://stellular-rabanadas-caf366.netlify.app/)
+- Live Site URL: [Netlify](https://super-sunflower-1d0bc5.netlify.app/)
 
 ### Built with
 
