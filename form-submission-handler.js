@@ -103,3 +103,21 @@
       }
     }
   })();
+
+
+
+// Smooth scroll
+
+const scrollLinks = document.querySelector('.contact-me--anchor');
+
+scrollLinks.addEventListener('click', function(e) {
+    e.preventDefault();
+    // navigate to specific spot
+    const id = e.currentTarget.getAttribute('href').slice(1);
+    const element = document.getElementById(id);
+    let position = element.offsetTop;
+    window.scrollTo({
+      left: 0,
+      top:position,
+    });
+});
